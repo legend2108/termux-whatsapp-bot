@@ -3,7 +3,7 @@ let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
 CFonts.say('WHATSAPP BOT', {
-  font: 'chrome',
+  font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
 })
